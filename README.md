@@ -11,7 +11,9 @@ The system is built with a modular architecture to separate concerns:
 - **Strategy**: A module for generating trading signals (`strategy.py`). It generates orders with associated Greeks.
 - **Execution Engine**: Simulates the execution of approved orders (`execution_engine.py`).
 - **Portfolio Manager**: Maintains the state of positions, calculates realized PnL, and tracks portfolio-level Greeks (`portfolio_manager.py`).
-- **Risk Dashboard**: A standalone utility (`dashboard/main_dashboard.py`) for real-time monitoring of risk metrics.
+- **Risk Dashboards**: 
+    - **CLI Dashboard**: A standalone utility (`dashboard/main_dashboard.py`) for real-time monitoring in the terminal.
+    - **Web Dashboard**: A modern Streamlit-based interface (`dashboard/web_dashboard.py`) for visual risk tracking and PnL trends.
 - **Models**: Defines the core data structures for the system (`models.py`).
 
 ## Features
@@ -61,7 +63,15 @@ To run the **Risk Dashboard**:
 python dashboard/main_dashboard.py
 ```
 
-The dashboard will read `log.jsonl` and provide a live view of your portfolio's risk state.
+The dashboard will read `log.jsonl` and provide a live view of your portfolio's risk state in your terminal.
+
+To run the **Streamlit Web Dashboard**:
+
+```bash
+streamlit run dashboard/web_dashboard.py
+```
+
+This provides a rich visual experience with real-time PnL charts and Greeks exposure tracking.
 
 ## Project Structure
 
@@ -73,7 +83,8 @@ The dashboard will read `log.jsonl` and provide a live view of your portfolio's 
 - `strategy.py`: Strategy module generating signals with Greek parameters.
 - `models.py`: Data models for Orders, Positions, and Portfolio.
 - `logger.py`: Structured JSONL logging utility.
-- `dashboard/main_dashboard.py`: Real-time risk monitoring dashboard.
+- `dashboard/main_dashboard.py`: Real-time CLI risk monitoring dashboard.
+- `dashboard/web_dashboard.py`: Modern Streamlit-based web dashboard with visualization.
 - `log.jsonl`: Structured log file containing the history of all trading events.
 - `fix_logs.py`: Utility to convert or fix malformed log files.
 

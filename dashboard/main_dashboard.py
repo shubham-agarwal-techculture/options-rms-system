@@ -38,6 +38,15 @@ class RiskDashboard:
         print(f"Vega: {self.vega}")
         print("==========================\n")
 
+    def load_logs(self):
+        try:
+            with open(LOG_FILE, "r") as f:
+                for line in f:
+                    log = json.loads(line.strip())
+                    self.process_log(log)
+        except FileNotFoundError:
+            pass
+
     def run(self):
         print("Starting Risk Dashboard...")
         seen = 0
