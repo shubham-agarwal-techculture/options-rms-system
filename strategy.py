@@ -17,5 +17,8 @@ class DummyStrategy:
             qty=order,
             price=100.0,
             side=side,
-            strategy="dummy"
+            strategy="dummy",
+            delta=0.5,
+            gamma=0.1,
+            vega=2.0
         )

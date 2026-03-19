@@ -10,6 +10,8 @@ class PortfolioManager:
     def update_position(self, order: OrderRequest, fill_price: float):
         pos = self.portfolio.positions.get(order.symbol, Position(order.symbol))
 
+        sign = 1 if order.side == "BUY" else -1
+
         if order.side == "BUY":
             total_cost = pos.avg_price * pos.qty + fill_price * order.qty
             pos.qty += order.qty
@@ -20,5 +22,11 @@ class PortfolioManager:
             pos.qty -= order.qty
         else:
             pass
+
+        # Update Greeks
+        pos.delta += sign * order.delta * order.qty
+        pos.gamma += sign * order.gamma * order.qty
+        pos.vega += sign * order.vega * order.qty
+
 
         self.portfolio.positions[order.symbol] = pos

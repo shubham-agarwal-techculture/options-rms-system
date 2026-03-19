@@ -56,9 +56,14 @@ class TradingSystem:
         if result["status"] == "FILLED":
             self.pm.update_position(order, result["fill_price"])
 
+            delta, gamma, vega = self.portfolio.total_greeks()
+
             self.logger.log({
                 "event": "POSITION_UPDATED",
                 "symbol": order.symbol,
                 "positions": {k: v.qty for k, v in self.portfolio.positions.items()},
-                "pnl": self.portfolio.realized_pnl
+                "pnl": self.portfolio.realized_pnl,
+                "portfolio_delta": delta,
+                "portfolio_gamma": gamma,
+                "portfolio_vega": vega
             })
