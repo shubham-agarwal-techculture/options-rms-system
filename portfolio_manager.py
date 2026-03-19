@@ -14,9 +14,11 @@ class PortfolioManager:
             total_cost = pos.avg_price * pos.qty + fill_price * order.qty
             pos.qty += order.qty
             pos.avg_price = total_cost / pos.qty if pos.qty != 0 else 0
-        else:
+        elif order.side == "SELL":
             pnl = (fill_price - pos.avg_price) * order.qty
             self.portfolio.realized_pnl += pnl
             pos.qty -= order.qty
+        else:
+            pass
 
         self.portfolio.positions[order.symbol] = pos

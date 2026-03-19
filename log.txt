@@ -1,0 +1,160 @@
+{'event': 'ORDER_REQUESTED', 'order_id': '8fd25968-9018-4d57-b199-13b22dff65d4', 'symbol': 'NIFTY-OPT', 'qty': 9, 'timestamp': 1773915684.4999511}
+{'event': 'ORDER_APPROVED', 'order_id': '8fd25968-9018-4d57-b199-13b22dff65d4', 'timestamp': 1773915684.5004559}
+{'event': 'ORDER_EXECUTED', 'order_id': '8fd25968-9018-4d57-b199-13b22dff65d4', 'status': 'FILLED', 'timestamp': 1773915684.5004559}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': -9}, 'pnl': 900.0, 'timestamp': 1773915684.5009563}
+{'event': 'ORDER_REQUESTED', 'order_id': '29abad23-3e2f-4f75-a832-ef6f2cc8185a', 'symbol': 'NIFTY-OPT', 'qty': 4, 'timestamp': 1773915685.501617}
+{'event': 'ORDER_APPROVED', 'order_id': '29abad23-3e2f-4f75-a832-ef6f2cc8185a', 'timestamp': 1773915685.5021286}
+{'event': 'ORDER_EXECUTED', 'order_id': '29abad23-3e2f-4f75-a832-ef6f2cc8185a', 'status': 'FILLED', 'timestamp': 1773915685.5036669}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': -5}, 'pnl': 900.0, 'timestamp': 1773915685.5047383}
+{'event': 'ORDER_REQUESTED', 'order_id': '36c78e2a-c22a-4417-a09d-09abafbc469a', 'symbol': 'NIFTY-OPT', 'qty': 5, 'timestamp': 1773915686.50602}
+{'event': 'ORDER_APPROVED', 'order_id': '36c78e2a-c22a-4417-a09d-09abafbc469a', 'timestamp': 1773915686.5075495}
+{'event': 'ORDER_EXECUTED', 'order_id': '36c78e2a-c22a-4417-a09d-09abafbc469a', 'status': 'FILLED', 'timestamp': 1773915686.5090482}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': -10}, 'pnl': 1800.0, 'timestamp': 1773915686.5090482}
+{'event': 'ORDER_REQUESTED', 'order_id': 'a9f8e40e-53c5-4852-bf35-69147674c447', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915687.5099974}
+{'event': 'ORDER_APPROVED', 'order_id': 'a9f8e40e-53c5-4852-bf35-69147674c447', 'timestamp': 1773915687.5104966}
+{'event': 'ORDER_EXECUTED', 'order_id': 'a9f8e40e-53c5-4852-bf35-69147674c447', 'status': 'FILLED', 'timestamp': 1773915687.5104966}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': -17}, 'pnl': 3060.0, 'timestamp': 1773915687.510997}
+{'event': 'ORDER_REQUESTED', 'order_id': 'e08dc7f6-cce9-4205-b811-2fd7204e983b', 'symbol': 'NIFTY-OPT', 'qty': 1, 'timestamp': 1773915688.5118654}
+{'event': 'ORDER_APPROVED', 'order_id': 'e08dc7f6-cce9-4205-b811-2fd7204e983b', 'timestamp': 1773915688.5118654}
+{'event': 'ORDER_EXECUTED', 'order_id': 'e08dc7f6-cce9-4205-b811-2fd7204e983b', 'status': 'FILLED', 'timestamp': 1773915688.512918}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': -18}, 'pnl': 3240.0, 'timestamp': 1773915688.5134416}
+{'event': 'ORDER_REQUESTED', 'order_id': 'f5ceabb4-d05c-4f38-bcfa-3c5365da49b1', 'symbol': 'NIFTY-OPT', 'qty': 4, 'timestamp': 1773915689.5145285}
+{'event': 'ORDER_APPROVED', 'order_id': 'f5ceabb4-d05c-4f38-bcfa-3c5365da49b1', 'timestamp': 1773915689.5155392}
+{'event': 'ORDER_EXECUTED', 'order_id': 'f5ceabb4-d05c-4f38-bcfa-3c5365da49b1', 'status': 'FILLED', 'timestamp': 1773915689.5160375}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': -22}, 'pnl': 3960.0, 'timestamp': 1773915689.51755}
+{'event': 'ORDER_REQUESTED', 'order_id': '64a2ab89-4f41-4854-9334-4d6cc7f9d2f4', 'symbol': 'NIFTY-OPT', 'qty': 5, 'timestamp': 1773915690.5196693}
+{'event': 'ORDER_APPROVED', 'order_id': '64a2ab89-4f41-4854-9334-4d6cc7f9d2f4', 'timestamp': 1773915690.522181}
+{'event': 'ORDER_EXECUTED', 'order_id': '64a2ab89-4f41-4854-9334-4d6cc7f9d2f4', 'status': 'FILLED', 'timestamp': 1773915690.5235875}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': -17}, 'pnl': 3960.0, 'timestamp': 1773915690.524596}
+{'event': 'ORDER_REQUESTED', 'order_id': '8470e144-cfe3-403f-b8c5-573c3dbf99fb', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915691.5261686}
+{'event': 'ORDER_APPROVED', 'order_id': '8470e144-cfe3-403f-b8c5-573c3dbf99fb', 'timestamp': 1773915691.5277936}
+{'event': 'ORDER_EXECUTED', 'order_id': '8470e144-cfe3-403f-b8c5-573c3dbf99fb', 'status': 'FILLED', 'timestamp': 1773915691.5294669}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': -10}, 'pnl': 3960.0, 'timestamp': 1773915691.530804}
+{'event': 'ORDER_REQUESTED', 'order_id': 'dc9e3390-1a12-40b2-afd9-5cacc9ac73c4', 'symbol': 'NIFTY-OPT', 'qty': 9, 'timestamp': 1773915692.5326006}
+{'event': 'ORDER_APPROVED', 'order_id': 'dc9e3390-1a12-40b2-afd9-5cacc9ac73c4', 'timestamp': 1773915692.5336063}
+{'event': 'ORDER_EXECUTED', 'order_id': 'dc9e3390-1a12-40b2-afd9-5cacc9ac73c4', 'status': 'FILLED', 'timestamp': 1773915692.5346122}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': -1}, 'pnl': 3960.0, 'timestamp': 1773915692.5346122}
+{'event': 'ORDER_REQUESTED', 'order_id': 'b3d654f9-a801-4526-8f42-d5f54097a016', 'symbol': 'NIFTY-OPT', 'qty': 6, 'timestamp': 1773915693.5366573}
+{'event': 'ORDER_APPROVED', 'order_id': 'b3d654f9-a801-4526-8f42-d5f54097a016', 'timestamp': 1773915693.5381756}
+{'event': 'ORDER_EXECUTED', 'order_id': 'b3d654f9-a801-4526-8f42-d5f54097a016', 'status': 'FILLED', 'timestamp': 1773915693.5391698}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': 5}, 'pnl': 3960.0, 'timestamp': 1773915693.5406847}
+{'event': 'ORDER_REQUESTED', 'order_id': 'ca4563e9-03c5-47b9-bf6d-8b72b3b209dc', 'symbol': 'NIFTY-OPT', 'qty': 9, 'timestamp': 1773915694.542066}
+{'event': 'ORDER_APPROVED', 'order_id': 'ca4563e9-03c5-47b9-bf6d-8b72b3b209dc', 'timestamp': 1773915694.5435884}
+{'event': 'ORDER_EXECUTED', 'order_id': 'ca4563e9-03c5-47b9-bf6d-8b72b3b209dc', 'status': 'FILLED', 'timestamp': 1773915694.5456254}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': -4}, 'pnl': -3168.0, 'timestamp': 1773915694.5471635}
+{'event': 'ORDER_REQUESTED', 'order_id': '86759767-74ac-43e2-bf95-1c87f8448512', 'symbol': 'NIFTY-OPT', 'qty': 4, 'timestamp': 1773915695.548637}
+{'event': 'ORDER_APPROVED', 'order_id': '86759767-74ac-43e2-bf95-1c87f8448512', 'timestamp': 1773915695.5496547}
+{'event': 'ORDER_EXECUTED', 'order_id': '86759767-74ac-43e2-bf95-1c87f8448512', 'status': 'FILLED', 'timestamp': 1773915695.551701}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': 0}, 'pnl': -3168.0, 'timestamp': 1773915695.5527077}
+{'event': 'ORDER_REQUESTED', 'order_id': 'ecc5ff36-c8c5-4b69-a2c6-9a80616cabdf', 'symbol': 'NIFTY-OPT', 'qty': 8, 'timestamp': 1773915696.5538497}
+{'event': 'ORDER_APPROVED', 'order_id': 'ecc5ff36-c8c5-4b69-a2c6-9a80616cabdf', 'timestamp': 1773915696.5553846}
+{'event': 'ORDER_EXECUTED', 'order_id': 'ecc5ff36-c8c5-4b69-a2c6-9a80616cabdf', 'status': 'FILLED', 'timestamp': 1773915696.5569034}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': -8}, 'pnl': -2368.0, 'timestamp': 1773915696.5589375}
+{'event': 'ORDER_REQUESTED', 'order_id': 'e940c410-bf4b-4714-b2f0-bfdf1df74359', 'symbol': 'NIFTY-OPT', 'qty': 9, 'timestamp': 1773915697.560696}
+{'event': 'ORDER_APPROVED', 'order_id': 'e940c410-bf4b-4714-b2f0-bfdf1df74359', 'timestamp': 1773915697.5625267}
+{'event': 'ORDER_EXECUTED', 'order_id': 'e940c410-bf4b-4714-b2f0-bfdf1df74359', 'status': 'FILLED', 'timestamp': 1773915697.5645726}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': 1}, 'pnl': -2368.0, 'timestamp': 1773915697.565571}
+{'event': 'ORDER_REQUESTED', 'order_id': '293d07e6-38cc-46ae-93a9-302217bf8fd0', 'symbol': 'NIFTY-OPT', 'qty': 10, 'timestamp': 1773915698.5670302}
+{'event': 'ORDER_APPROVED', 'order_id': '293d07e6-38cc-46ae-93a9-302217bf8fd0', 'timestamp': 1773915698.568081}
+{'event': 'ORDER_EXECUTED', 'order_id': '293d07e6-38cc-46ae-93a9-302217bf8fd0', 'status': 'FILLED', 'timestamp': 1773915698.5685978}
+{'event': 'POSITION_UPDATED', 'symbol': 'NIFTY-OPT', 'positions': {'NIFTY-OPT': -9}, 'pnl': -10368.0, 'timestamp': 1773915698.5695953}
+{'event': 'ORDER_REQUESTED', 'order_id': '2bf3bc64-85ab-48ef-b6ea-beed18ad0854', 'symbol': 'NIFTY-OPT', 'qty': 8, 'timestamp': 1773915699.5714564}
+{'event': 'ORDER_REJECTED', 'order_id': '2bf3bc64-85ab-48ef-b6ea-beed18ad0854', 'reason': 'Daily loss limit breached', 'timestamp': 1773915699.571999}
+{'event': 'ORDER_REQUESTED', 'order_id': '48b53eee-7aff-4fac-b01f-0c14785a1d1e', 'symbol': 'NIFTY-OPT', 'qty': 2, 'timestamp': 1773915700.5740106}
+{'event': 'ORDER_REJECTED', 'order_id': '48b53eee-7aff-4fac-b01f-0c14785a1d1e', 'reason': 'Daily loss limit breached', 'timestamp': 1773915700.5745149}
+{'event': 'ORDER_REQUESTED', 'order_id': 'bbcf5471-f5d5-4dbf-87de-86bbaa7b41d8', 'symbol': 'NIFTY-OPT', 'qty': 5, 'timestamp': 1773915701.575332}
+{'event': 'ORDER_REJECTED', 'order_id': 'bbcf5471-f5d5-4dbf-87de-86bbaa7b41d8', 'reason': 'Daily loss limit breached', 'timestamp': 1773915701.575836}
+{'event': 'ORDER_REQUESTED', 'order_id': '068aac52-f92f-44fe-8c60-305b07856937', 'symbol': 'NIFTY-OPT', 'qty': 3, 'timestamp': 1773915702.576957}
+{'event': 'ORDER_REJECTED', 'order_id': '068aac52-f92f-44fe-8c60-305b07856937', 'reason': 'Daily loss limit breached', 'timestamp': 1773915702.5785034}
+{'event': 'ORDER_REQUESTED', 'order_id': '5a3c861e-5512-43fe-9810-ffdfd539bcc2', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915703.580682}
+{'event': 'ORDER_REJECTED', 'order_id': '5a3c861e-5512-43fe-9810-ffdfd539bcc2', 'reason': 'Daily loss limit breached', 'timestamp': 1773915703.5822012}
+{'event': 'ORDER_REQUESTED', 'order_id': 'd6771428-b6a5-4314-ae36-0c1713c21863', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915704.5846126}
+{'event': 'ORDER_REJECTED', 'order_id': 'd6771428-b6a5-4314-ae36-0c1713c21863', 'reason': 'Daily loss limit breached', 'timestamp': 1773915704.5856411}
+{'event': 'ORDER_REQUESTED', 'order_id': '54c6f044-59d7-4cc0-be85-1be450de5c0e', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915705.587801}
+{'event': 'ORDER_REJECTED', 'order_id': '54c6f044-59d7-4cc0-be85-1be450de5c0e', 'reason': 'Daily loss limit breached', 'timestamp': 1773915705.5893025}
+{'event': 'ORDER_REQUESTED', 'order_id': 'ba3862bb-e814-4295-bedd-8ad3b5a8196a', 'symbol': 'NIFTY-OPT', 'qty': 8, 'timestamp': 1773915706.5913436}
+{'event': 'ORDER_REJECTED', 'order_id': 'ba3862bb-e814-4295-bedd-8ad3b5a8196a', 'reason': 'Daily loss limit breached', 'timestamp': 1773915706.5918522}
+{'event': 'ORDER_REQUESTED', 'order_id': '80ac13da-57dc-4f35-8860-6337c6d92de1', 'symbol': 'NIFTY-OPT', 'qty': 3, 'timestamp': 1773915707.5938606}
+{'event': 'ORDER_REJECTED', 'order_id': '80ac13da-57dc-4f35-8860-6337c6d92de1', 'reason': 'Daily loss limit breached', 'timestamp': 1773915707.595903}
+{'event': 'ORDER_REQUESTED', 'order_id': '492987e4-8d3a-41e1-9e7e-62fbce95744e', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915708.5974543}
+{'event': 'ORDER_REJECTED', 'order_id': '492987e4-8d3a-41e1-9e7e-62fbce95744e', 'reason': 'Daily loss limit breached', 'timestamp': 1773915708.5998971}
+{'event': 'ORDER_REQUESTED', 'order_id': '18fffb78-f401-4948-acf8-5c61d053208c', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915709.6016023}
+{'event': 'ORDER_REJECTED', 'order_id': '18fffb78-f401-4948-acf8-5c61d053208c', 'reason': 'Daily loss limit breached', 'timestamp': 1773915709.6021135}
+{'event': 'ORDER_REQUESTED', 'order_id': '2f59a118-5a07-4d34-9ff0-edceaab995ca', 'symbol': 'NIFTY-OPT', 'qty': 3, 'timestamp': 1773915710.6037385}
+{'event': 'ORDER_REJECTED', 'order_id': '2f59a118-5a07-4d34-9ff0-edceaab995ca', 'reason': 'Daily loss limit breached', 'timestamp': 1773915710.6042485}
+{'event': 'ORDER_REQUESTED', 'order_id': '01f2e4c3-39b3-43d4-94d1-28143a54b77a', 'symbol': 'NIFTY-OPT', 'qty': 6, 'timestamp': 1773915711.6053739}
+{'event': 'ORDER_REJECTED', 'order_id': '01f2e4c3-39b3-43d4-94d1-28143a54b77a', 'reason': 'Daily loss limit breached', 'timestamp': 1773915711.6064138}
+{'event': 'ORDER_REQUESTED', 'order_id': 'e69ea1df-a242-40d6-9b99-6a716acb7d38', 'symbol': 'NIFTY-OPT', 'qty': 6, 'timestamp': 1773915712.6080518}
+{'event': 'ORDER_REJECTED', 'order_id': 'e69ea1df-a242-40d6-9b99-6a716acb7d38', 'reason': 'Daily loss limit breached', 'timestamp': 1773915712.6090782}
+{'event': 'ORDER_REQUESTED', 'order_id': 'e8cf3ac6-b8b5-4246-92fe-08ce7c9a8726', 'symbol': 'NIFTY-OPT', 'qty': 9, 'timestamp': 1773915713.6102674}
+{'event': 'ORDER_REJECTED', 'order_id': 'e8cf3ac6-b8b5-4246-92fe-08ce7c9a8726', 'reason': 'Daily loss limit breached', 'timestamp': 1773915713.6102674}
+{'event': 'ORDER_REQUESTED', 'order_id': 'cc8b9502-092f-44ed-8221-c7f6e07ff35e', 'symbol': 'NIFTY-OPT', 'qty': 3, 'timestamp': 1773915714.6116219}
+{'event': 'ORDER_REJECTED', 'order_id': 'cc8b9502-092f-44ed-8221-c7f6e07ff35e', 'reason': 'Daily loss limit breached', 'timestamp': 1773915714.6116219}
+{'event': 'ORDER_REQUESTED', 'order_id': 'a86995fe-b0f2-47bf-9e26-776625013077', 'symbol': 'NIFTY-OPT', 'qty': 5, 'timestamp': 1773915715.6132915}
+{'event': 'ORDER_REJECTED', 'order_id': 'a86995fe-b0f2-47bf-9e26-776625013077', 'reason': 'Daily loss limit breached', 'timestamp': 1773915715.615834}
+{'event': 'ORDER_REQUESTED', 'order_id': '54726c9e-c867-492a-8e8e-54689a26fdf7', 'symbol': 'NIFTY-OPT', 'qty': 5, 'timestamp': 1773915716.6178062}
+{'event': 'ORDER_REJECTED', 'order_id': '54726c9e-c867-492a-8e8e-54689a26fdf7', 'reason': 'Daily loss limit breached', 'timestamp': 1773915716.6188188}
+{'event': 'ORDER_REQUESTED', 'order_id': '77c673d6-2f0b-442f-a9f9-cc03914bc35b', 'symbol': 'NIFTY-OPT', 'qty': 3, 'timestamp': 1773915717.6211758}
+{'event': 'ORDER_REJECTED', 'order_id': '77c673d6-2f0b-442f-a9f9-cc03914bc35b', 'reason': 'Daily loss limit breached', 'timestamp': 1773915717.6227074}
+{'event': 'ORDER_REQUESTED', 'order_id': '79c27b2e-1cb7-4152-8ece-e98e34d1386a', 'symbol': 'NIFTY-OPT', 'qty': 1, 'timestamp': 1773915718.6241188}
+{'event': 'ORDER_REJECTED', 'order_id': '79c27b2e-1cb7-4152-8ece-e98e34d1386a', 'reason': 'Daily loss limit breached', 'timestamp': 1773915718.6256838}
+{'event': 'ORDER_REQUESTED', 'order_id': '81de261f-00ae-497f-98bb-67e5d1da5527', 'symbol': 'NIFTY-OPT', 'qty': 2, 'timestamp': 1773915719.6286578}
+{'event': 'ORDER_REJECTED', 'order_id': '81de261f-00ae-497f-98bb-67e5d1da5527', 'reason': 'Daily loss limit breached', 'timestamp': 1773915719.630729}
+{'event': 'ORDER_REQUESTED', 'order_id': '9b3994b9-a310-42c9-9fd5-1ed957905691', 'symbol': 'NIFTY-OPT', 'qty': 3, 'timestamp': 1773915720.63335}
+{'event': 'ORDER_REJECTED', 'order_id': '9b3994b9-a310-42c9-9fd5-1ed957905691', 'reason': 'Daily loss limit breached', 'timestamp': 1773915720.63335}
+{'event': 'ORDER_REQUESTED', 'order_id': '2249e29b-f76e-4c4c-9f4b-0d647dc2b2e3', 'symbol': 'NIFTY-OPT', 'qty': 6, 'timestamp': 1773915721.6350005}
+{'event': 'ORDER_REJECTED', 'order_id': '2249e29b-f76e-4c4c-9f4b-0d647dc2b2e3', 'reason': 'Daily loss limit breached', 'timestamp': 1773915721.6355016}
+{'event': 'ORDER_REQUESTED', 'order_id': '81af95d6-cb9e-4ee9-b85e-42b263a458bb', 'symbol': 'NIFTY-OPT', 'qty': 3, 'timestamp': 1773915722.6370716}
+{'event': 'ORDER_REJECTED', 'order_id': '81af95d6-cb9e-4ee9-b85e-42b263a458bb', 'reason': 'Daily loss limit breached', 'timestamp': 1773915722.6375694}
+{'event': 'ORDER_REQUESTED', 'order_id': 'd7658baf-89bf-4096-9647-4dc3bd962966', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915723.6390665}
+{'event': 'ORDER_REJECTED', 'order_id': 'd7658baf-89bf-4096-9647-4dc3bd962966', 'reason': 'Daily loss limit breached', 'timestamp': 1773915723.639567}
+{'event': 'ORDER_REQUESTED', 'order_id': 'af52de58-5de7-4768-93d3-ca7d3a91c8f6', 'symbol': 'NIFTY-OPT', 'qty': 5, 'timestamp': 1773915724.6405573}
+{'event': 'ORDER_REJECTED', 'order_id': 'af52de58-5de7-4768-93d3-ca7d3a91c8f6', 'reason': 'Daily loss limit breached', 'timestamp': 1773915724.6410675}
+{'event': 'ORDER_REQUESTED', 'order_id': 'e42dfe1b-84cd-4106-8040-720339ad8e37', 'symbol': 'NIFTY-OPT', 'qty': 8, 'timestamp': 1773915725.6423707}
+{'event': 'ORDER_REJECTED', 'order_id': 'e42dfe1b-84cd-4106-8040-720339ad8e37', 'reason': 'Daily loss limit breached', 'timestamp': 1773915725.6438797}
+{'event': 'ORDER_REQUESTED', 'order_id': '83b5d03b-96fc-41fa-983b-1bc7ee6e0ebe', 'symbol': 'NIFTY-OPT', 'qty': 9, 'timestamp': 1773915726.6447911}
+{'event': 'ORDER_REJECTED', 'order_id': '83b5d03b-96fc-41fa-983b-1bc7ee6e0ebe', 'reason': 'Daily loss limit breached', 'timestamp': 1773915726.645305}
+{'event': 'ORDER_REQUESTED', 'order_id': '726347e2-d742-45bc-93a5-660babcd375f', 'symbol': 'NIFTY-OPT', 'qty': 9, 'timestamp': 1773915727.646363}
+{'event': 'ORDER_REJECTED', 'order_id': '726347e2-d742-45bc-93a5-660babcd375f', 'reason': 'Daily loss limit breached', 'timestamp': 1773915727.64737}
+{'event': 'ORDER_REQUESTED', 'order_id': '8c28ffad-5d6f-40a1-a78a-78de309c208c', 'symbol': 'NIFTY-OPT', 'qty': 2, 'timestamp': 1773915728.6482327}
+{'event': 'ORDER_REJECTED', 'order_id': '8c28ffad-5d6f-40a1-a78a-78de309c208c', 'reason': 'Daily loss limit breached', 'timestamp': 1773915728.6482327}
+{'event': 'ORDER_REQUESTED', 'order_id': 'd891106f-598a-4dd7-b230-4727c65bbe58', 'symbol': 'NIFTY-OPT', 'qty': 8, 'timestamp': 1773915729.6493933}
+{'event': 'ORDER_REJECTED', 'order_id': 'd891106f-598a-4dd7-b230-4727c65bbe58', 'reason': 'Daily loss limit breached', 'timestamp': 1773915729.649898}
+{'event': 'ORDER_REQUESTED', 'order_id': 'dfdea668-b81e-4e4b-b2d8-bc0566a072a5', 'symbol': 'NIFTY-OPT', 'qty': 6, 'timestamp': 1773915730.650828}
+{'event': 'ORDER_REJECTED', 'order_id': 'dfdea668-b81e-4e4b-b2d8-bc0566a072a5', 'reason': 'Daily loss limit breached', 'timestamp': 1773915730.6518338}
+{'event': 'ORDER_REQUESTED', 'order_id': '7d3c42eb-1897-4222-a672-bb26e4015cc1', 'symbol': 'NIFTY-OPT', 'qty': 4, 'timestamp': 1773915731.6532886}
+{'event': 'ORDER_REJECTED', 'order_id': '7d3c42eb-1897-4222-a672-bb26e4015cc1', 'reason': 'Daily loss limit breached', 'timestamp': 1773915731.6548111}
+{'event': 'ORDER_REQUESTED', 'order_id': 'cccb6648-74f8-4bd2-8c24-7f611556fca2', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915732.6556275}
+{'event': 'ORDER_REJECTED', 'order_id': 'cccb6648-74f8-4bd2-8c24-7f611556fca2', 'reason': 'Daily loss limit breached', 'timestamp': 1773915732.6572247}
+{'event': 'ORDER_REQUESTED', 'order_id': 'f02fc8fd-edaf-40a2-bfb8-edb30816b77c', 'symbol': 'NIFTY-OPT', 'qty': 2, 'timestamp': 1773915733.6586893}
+{'event': 'ORDER_REJECTED', 'order_id': 'f02fc8fd-edaf-40a2-bfb8-edb30816b77c', 'reason': 'Daily loss limit breached', 'timestamp': 1773915733.6596887}
+{'event': 'ORDER_REQUESTED', 'order_id': '2d91507b-0c0e-4e9c-a843-cfae99491736', 'symbol': 'NIFTY-OPT', 'qty': 3, 'timestamp': 1773915734.661451}
+{'event': 'ORDER_REJECTED', 'order_id': '2d91507b-0c0e-4e9c-a843-cfae99491736', 'reason': 'Daily loss limit breached', 'timestamp': 1773915734.661451}
+{'event': 'ORDER_REQUESTED', 'order_id': '1089dc26-bff8-4027-84b3-d054c3f73675', 'symbol': 'NIFTY-OPT', 'qty': 3, 'timestamp': 1773915735.6640482}
+{'event': 'ORDER_REJECTED', 'order_id': '1089dc26-bff8-4027-84b3-d054c3f73675', 'reason': 'Daily loss limit breached', 'timestamp': 1773915735.665069}
+{'event': 'ORDER_REQUESTED', 'order_id': 'fd563693-2d91-409c-88b6-0b184e719243', 'symbol': 'NIFTY-OPT', 'qty': 10, 'timestamp': 1773915736.666801}
+{'event': 'ORDER_REJECTED', 'order_id': 'fd563693-2d91-409c-88b6-0b184e719243', 'reason': 'Daily loss limit breached', 'timestamp': 1773915736.6678004}
+{'event': 'ORDER_REQUESTED', 'order_id': '1de7841d-5d91-4a48-80ae-ff69e5facddf', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915737.6694255}
+{'event': 'ORDER_REJECTED', 'order_id': '1de7841d-5d91-4a48-80ae-ff69e5facddf', 'reason': 'Daily loss limit breached', 'timestamp': 1773915737.6699364}
+{'event': 'ORDER_REQUESTED', 'order_id': '5eea2fd9-116d-426a-a5bc-046315faa33e', 'symbol': 'NIFTY-OPT', 'qty': 9, 'timestamp': 1773915738.6706753}
+{'event': 'ORDER_REJECTED', 'order_id': '5eea2fd9-116d-426a-a5bc-046315faa33e', 'reason': 'Daily loss limit breached', 'timestamp': 1773915738.6711788}
+{'event': 'ORDER_REQUESTED', 'order_id': 'b86361d9-638c-4ab8-ae37-6937d844f90c', 'symbol': 'NIFTY-OPT', 'qty': 3, 'timestamp': 1773915739.67233}
+{'event': 'ORDER_REJECTED', 'order_id': 'b86361d9-638c-4ab8-ae37-6937d844f90c', 'reason': 'Daily loss limit breached', 'timestamp': 1773915739.6738675}
+{'event': 'ORDER_REQUESTED', 'order_id': '1cb6232c-6745-44d6-b551-a8777e092e9d', 'symbol': 'NIFTY-OPT', 'qty': 4, 'timestamp': 1773915740.6767175}
+{'event': 'ORDER_REJECTED', 'order_id': '1cb6232c-6745-44d6-b551-a8777e092e9d', 'reason': 'Daily loss limit breached', 'timestamp': 1773915740.6782365}
+{'event': 'ORDER_REQUESTED', 'order_id': 'aa54079a-b4ac-4f73-a7f1-95c4227eb160', 'symbol': 'NIFTY-OPT', 'qty': 3, 'timestamp': 1773915741.6816306}
+{'event': 'ORDER_REJECTED', 'order_id': 'aa54079a-b4ac-4f73-a7f1-95c4227eb160', 'reason': 'Daily loss limit breached', 'timestamp': 1773915741.6846085}
+{'event': 'ORDER_REQUESTED', 'order_id': '00472ef0-7767-40f5-8f80-fcb6ea434c0f', 'symbol': 'NIFTY-OPT', 'qty': 3, 'timestamp': 1773915742.686735}
+{'event': 'ORDER_REJECTED', 'order_id': '00472ef0-7767-40f5-8f80-fcb6ea434c0f', 'reason': 'Daily loss limit breached', 'timestamp': 1773915742.6887796}
+{'event': 'ORDER_REQUESTED', 'order_id': '398fa775-a93f-463b-81ab-d4680261b578', 'symbol': 'NIFTY-OPT', 'qty': 10, 'timestamp': 1773915743.691078}
+{'event': 'ORDER_REJECTED', 'order_id': '398fa775-a93f-463b-81ab-d4680261b578', 'reason': 'Daily loss limit breached', 'timestamp': 1773915743.6920922}
+{'event': 'ORDER_REQUESTED', 'order_id': '21f81a80-480c-496d-906d-6c9705baf609', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915744.6934295}
+{'event': 'ORDER_REJECTED', 'order_id': '21f81a80-480c-496d-906d-6c9705baf609', 'reason': 'Daily loss limit breached', 'timestamp': 1773915744.694449}
+{'event': 'ORDER_REQUESTED', 'order_id': '9701bc93-b427-4200-93a4-2c2f045cd0ba', 'symbol': 'NIFTY-OPT', 'qty': 10, 'timestamp': 1773915745.695962}
+{'event': 'ORDER_REJECTED', 'order_id': '9701bc93-b427-4200-93a4-2c2f045cd0ba', 'reason': 'Daily loss limit breached', 'timestamp': 1773915745.6969774}
+{'event': 'ORDER_REQUESTED', 'order_id': '24495fdf-b7a3-4910-b9a4-02c88f28419e', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915746.6981423}
+{'event': 'ORDER_REJECTED', 'order_id': '24495fdf-b7a3-4910-b9a4-02c88f28419e', 'reason': 'Daily loss limit breached', 'timestamp': 1773915746.699157}
+{'event': 'ORDER_REQUESTED', 'order_id': '7a347f7b-fe62-423d-b94f-4cbb06401518', 'symbol': 'NIFTY-OPT', 'qty': 7, 'timestamp': 1773915747.7005413}
+{'event': 'ORDER_REJECTED', 'order_id': '7a347f7b-fe62-423d-b94f-4cbb06401518', 'reason': 'Daily loss limit breached', 'timestamp': 1773915747.7010393}
+{'event': 'ORDER_REQUESTED', 'order_id': '2d1d5aa3-fff8-4ad4-80c8-7477d8db7df2', 'symbol': 'NIFTY-OPT', 'qty': 6, 'timestamp': 1773915748.7031617}
+{'event': 'ORDER_REJECTED', 'order_id': '2d1d5aa3-fff8-4ad4-80c8-7477d8db7df2', 'reason': 'Daily loss limit breached', 'timestamp': 1773915748.7031617}
